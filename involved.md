@@ -21,7 +21,7 @@ We elect officers at the beginning of the Fall semester on a yearly cycle.  The 
 * **Secretary (Paul-Hieu Nguyen)**: Oversees and manages communications for the organization.
 * **Student Relations (Joseph Salzer)**: Plans and organizes social events.
 * **Technology (??)**: Plans and organizes the website.
-* **Student Seminar (Steven Moen)** : Plans and organizes seminars and workshops.
+* **Student Seminar (Ajinkya Kokandakar)** : Plans and organizes seminars and workshops.
 * **Student Outreach (Evan Gorstein)**: Plans and organizes volunteer events
 * **Student Representatives (Nathan Aviles)**: Represents the President and the organization in Department Meeting.
 
