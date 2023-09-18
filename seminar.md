@@ -1,5 +1,7 @@
 ## Departmental Seminars
-[Statistics Faculty Lightning Talks (Sept 2019)](seminars/lightning-talks-1909.pdf ':ignore')
+
+The Statistics Seminar is held every Wednesday at 4-5PM.
+More details can be found [here](https://today.wisc.edu/events/tag/statistics%20seminars)
 
 ## Student Seminar
 
@@ -12,7 +14,28 @@ The series has a number of goals:
 4. Share notable internship and teaching experiences.
 5. Make useful workshops for students.
 
-### Previous Student Seminars
+
+### Fall 2023
+
+The list of seminars planned for this semester is given below. (Order of some seminars may change)
+
+| Speaker          | Date   | Topic                                                                                                                                                    |
+|------------------|--------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sep 18 | Ryan Yee  | Evaluating plate discipline in Major League Baseball with Bayesian Additive Regression Trees |
+| Sep 25 | Nathaniel Pritchard  | TBA |
+| Oct 02 | Special Dept Seminar| TBA |
+| Oct 09 | Chenghui Li | TBA |
+| Oct 16 | Special Dept Seminar | TBA |
+| Oct 23 | Steven Moen | Professional Development Session |
+| Nov 06 | TBA | TBA |
+| Nov 13 | TBA | TBA |
+| Nov 20 | TBA | TBA |
+| Nov 27 | TBA | TBA |
+| Dec 04 | TBA | TBA |
+
+
+<details>
+<summary>Seminars in Previous Years</summary>
 
 #### Spring 2019
 
@@ -44,3 +67,4 @@ The series has a number of goals:
 | Xiaowu Dai         | Apr 20 | <a href="fliers/xiaowu_seminar_2018.pdf">Optimal Nonparametric Estimation with Derivatives</a>                                                       |
 | Ting Ye            | May 4  | <a href="fliers/ting_seminar_2018.pdf">A Robust Approach to Sample Size Calculation in Cancer Immunotherapy Trials with Delayed Treatment Effect</a> |
 
+</details>
