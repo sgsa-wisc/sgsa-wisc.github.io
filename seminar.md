@@ -22,7 +22,7 @@ The list of seminars planned for this semester is given below. (Order of some se
 | Speaker          | Date   | Topic                                                                                                                                                    |
 |------------------|--------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Sep 18 | Ryan Yee  | Evaluating plate discipline in Major League Baseball with Bayesian Additive Regression Trees |
-| Sep 25 | Nathaniel Pritchard  | TBA |
+| Sep 25 | Nathaniel Pritchard  | A statistician's guide to the galaxy (of computing)|
 | Oct 02 | Special Dept Seminar| TBA |
 | Oct 09 | Chenghui Li | TBA |
 | Oct 16 | Special Dept Seminar | TBA |
