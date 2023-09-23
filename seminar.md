@@ -22,9 +22,9 @@ The list of seminars planned for this semester is given below. (Order of some se
 | Speaker          | Date   | Topic                                                                                                                                                    |
 |------------------|--------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Sep 18 | Ryan Yee  | Evaluating plate discipline in Major League Baseball with Bayesian Additive Regression Trees |
-| Sep 25 | Nathaniel Pritchard  | A statistician's guide to the galaxy (of computing)|
-| Oct 02 | Special Dept Seminar| TBA |
-| Oct 09 | Chenghui Li | TBA |
+| Sep 25 | Nathaniel Pritchard | A statistician's guide to the galaxy (of computing)|
+| Oct 02 | Special Dept Seminar | See detials [here](https://today.wisc.edu/events/view/183723) |
+| Oct 09 | Chenghui Li, Jiacheng Miao | TBA, TBA |
 | Oct 16 | Special Dept Seminar | TBA |
 | Oct 23 | Steven Moen | Professional Development Session |
 | Nov 06 | TBA | TBA |
