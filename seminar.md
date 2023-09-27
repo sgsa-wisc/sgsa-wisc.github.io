@@ -24,14 +24,15 @@ The list of seminars planned for this semester is given below. (Order of some se
 | Sep 18 | Ryan Yee  | Evaluating plate discipline in Major League Baseball with Bayesian Additive Regression Trees |
 | Sep 25 | Nathaniel Pritchard | A statistician's guide to the galaxy (of computing)|
 | Oct 02 | Special Dept Seminar | See detials [here](https://today.wisc.edu/events/view/183723) |
-| Oct 09 | Chenghui Li, Jiacheng Miao | TBA, TBA |
+| Oct 09 | Chenghui Li,<br/> Jiacheng Miao | Chenghui: Spectral Neural Networks from approximation and optimization perspective,<br /> Jiacheng: Valid and efficient inference after prediction |
 | Oct 16 | Special Dept Seminar | TBA |
-| Oct 23 | Steven Moen | Professional Development Session |
-| Nov 06 | TBA | TBA |
+| Oct 23 | Steven Moen | Professional Development: The Dos and Don'ts of Resumes and Interviews |
+| Oct 30 | Lightning Talks | Francisco Mandujano Reyes, Hailey Louw |
+| Nov 06 | Susan Glenn | Hidden Figures: Quantifying the Patterns in a Single Image |
 | Nov 13 | TBA | TBA |
 | Nov 20 | TBA | TBA |
 | Nov 27 | TBA | TBA |
-| Dec 04 | TBA | TBA |
+| Dec 04 | [Paul Bastide](http://pbastide.github.io/)  | A Cauchy Process to Model Trait Evolution on a Phylogeny |
 
 
 <details>
