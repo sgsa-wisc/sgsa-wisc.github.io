@@ -1,4 +1,6 @@
 ---
+title: "Student Achievements"
+---
 
 *You can help make this list better!*
 

@@ -1,3 +1,7 @@
+---
+title: "Exams"
+---
+
 <img src="images/knowledge.jpg" style="width:70%"/>
 
 

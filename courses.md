@@ -1,14 +1,17 @@
-
+---
+title: "Coursework"
+---
 ## Degree Requirements
 
 For a list of your graduation requirements see the official website for your degree:
-* [Masters][masters-req]
+
+- [Masters][masters-req]
   - [Biometry][biometry-req]
   - [Data Science][data-req]
-* [PhD][phd-req]
+- [PhD][phd-req]
   - [Biostatistic Option][bio-req]
   - [Biomedical Data Science][bmids-req]
-* PhD Minors/Certificates
+- PhD Minors/Certificates
   - [Computer Science][cs]
 
 [masters-req]: http://old-www.stat.wisc.edu/phd-masters/MS_Degree_Regulations 

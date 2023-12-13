@@ -1,4 +1,6 @@
-# Mental Health Resources
+---
+title: "Mental Health Resources"
+---
 
 Graduate and Professional Student Assistance Specialist: The Graduate
 School and the Dean of Students Office jointly support a staff

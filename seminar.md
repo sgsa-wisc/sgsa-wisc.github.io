@@ -1,3 +1,7 @@
+---
+title: "Seminar"
+---
+
 ## Departmental Seminars
 
 The Statistics Seminar is held every Wednesday at 4-5PM.

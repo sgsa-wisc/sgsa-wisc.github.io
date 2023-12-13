@@ -1,0 +1,46 @@
+project:
+  type: website
+
+website:
+  title: "SGSA"
+  favicon: "images/sgsa_4_transparent.png"
+  search: true
+  navbar:
+    logo: "images/sgsa_4_transparent.png"
+    href: https://sgsa.stat.wisc.edu
+    right:
+      - href: index.qmd
+        text: Home
+      - href: seminar.md
+        text: Seminars
+      - href: involved.md
+        text: Getting Involved
+  sidebar:
+    style: "docked"
+    contents:
+      - section: "Current Students"
+        contents:
+          - events.md
+          - career.md
+          - mental-health.md
+          - courses.md
+          - textbooks.md
+          - exams.md
+          - computing.md
+          - seminar.md
+      - section: "New/Prospective Students"
+        contents:
+          - wisconsin.md
+      - section: "News"
+        contents:
+          - achievements.md
+          - photos.md
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

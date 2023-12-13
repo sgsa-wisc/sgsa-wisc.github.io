@@ -1,3 +1,7 @@
+---
+title: "Wisconsin"
+---
+
 <img src="images/madisonaerial.jpg" style="width:70%">
 
 ## Housing in Madison

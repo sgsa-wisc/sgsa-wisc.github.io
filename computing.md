@@ -1,3 +1,6 @@
+---
+title: "Computing Tools"
+---
 # Computing Tools
 The department website has a fairly [comprehensive list](https://old-www.stat.wisc.edu/network-skills) of resources for common tools for software engineering and computing, along with information and tutorials of the computing resources at Wisconsin.
 
@@ -20,9 +23,5 @@ Tools that are generally recommended and useful to learn for statisticians are l
 #### Version Control
 
 * Git (Github/Bitbucket)
-
-#### Website
-
-* [Making a Website with Blogdown in R](website?id=making-a-website-in-r-tutorial)
 
 [appeal](appeal.md ':include')

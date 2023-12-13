@@ -1,3 +1,7 @@
+---
+title: "Getting Involved"
+---
+
 ## Join Us!
 
 <strong>We are actively recruiting for any students that would like to help organize events for the organization!</strong>

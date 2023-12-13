@@ -1,3 +1,7 @@
+---
+title: "Textbooks"
+---
+
 ## Mathematical Statistics
 
 * [*Statistical Inference, Casella and Berger*](https://search.library.wisc.edu/catalog/9910206891502121). This book is written at a

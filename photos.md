@@ -1,3 +1,7 @@
+---
+title: "Department Photos"
+---
+
 # Department Photos
 
 ## 2017
